@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vacation Creation</string>
+    <string name="imgLarge">Large Img</string>
+    <string name="homePick">Pick your vacation home</string>
+    <string name="radButton1">"One Bedroom "</string>
+    <string name="radButton2">Two Bedrooms</string>
+    <string name="mpsButton">Play Sounds From Area</string>
+    <string name="btnPause">Pause Sounds</string>
+    <string name="gridDescription">Welcome to the \"Home Selection Screen.\" Here you will choose the home that you will be staying in for the duration of your vacation. Please select from one of the following.</string>
+    <string name="radButton3">Three Bedrooms</string>
+    <string name="txtFinal">Congratulations</string>
+    <string name="btnSelect">Confirm Selection</string>
+    <string name="txtBed">How many bedrooms would you like to reserve?</string>
+    <string name="vacCre">Vacation Creation</string>
+</resources>
